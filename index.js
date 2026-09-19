@@ -1,1 +1,1 @@
-const app: any = require('./app');
+console.log("Version 1.0.0");
